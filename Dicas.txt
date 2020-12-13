@@ -10,4 +10,18 @@ Operações matemáticas
 Sabe tempo 1ms, 1s, 1m 1h
 Diferença entre true and false
 
+Conjunto de instruções
+
+Entrada -> processamento -> saída
+
+Linguagem de máquina - Baixo nível
+Linguagem de alto nível
+0 Circuito fechado
+1 Circuito aberto
+
+Linguagem estrutura
+Linguagem POO
+Linguagem de scripts
+
+
 
