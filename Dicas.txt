@@ -23,5 +23,12 @@ Linguagem estrutura
 Linguagem POO
 Linguagem de scripts
 
-
+Virtualização?
+JVM - Java virtul machine ( Para cada SO)
+JDK - Java Develoment Kit
+Java 8
+Java 11 LTS - 1 ano e meio 3 anos 
+Javac - compiler of java
+ Bancos, empresas de alto porte
+JAVA_HOME = C:\\...
 
