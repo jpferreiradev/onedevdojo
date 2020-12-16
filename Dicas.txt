@@ -32,3 +32,15 @@ Javac - compiler of java
  Bancos, empresas de alto porte
 JAVA_HOME = C:\\...
 
+- Palavras reservadas
+- Conversão Java
+
+Execução do código
+ -Ponto de Entrada
+ - processamento
+ - Ponto de saida
+
+ - Memoria volatio 
+ - Estude sobre Memoria, sistemas em cloud , quanto mais memoria você utiliza você paga mais no fim do mês ( Amazon e Azure)
+ - Quantidade de memoria e a velocidade
+ 
