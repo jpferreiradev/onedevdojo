@@ -43,4 +43,4 @@ Execução do código
  - Memoria volatio 
  - Estude sobre Memoria, sistemas em cloud , quanto mais memoria você utiliza você paga mais no fim do mês ( Amazon e Azure)
  - Quantidade de memoria e a velocidade
- 
+- Sempre pense no futuro com a suas variaveis
