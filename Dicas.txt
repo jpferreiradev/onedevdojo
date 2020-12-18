@@ -48,3 +48,5 @@ Execução do código
 - Seja bem discritivo no momento que você estiver criando uma variavel
 - Nome da classe igual do arquivo
 - variavel = primeiraIdade, segundaIdade
+
+- Intellij IDE, Eclipse e Netbeans
