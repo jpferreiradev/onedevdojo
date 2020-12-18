@@ -44,3 +44,7 @@ Execução do código
  - Estude sobre Memoria, sistemas em cloud , quanto mais memoria você utiliza você paga mais no fim do mês ( Amazon e Azure)
  - Quantidade de memoria e a velocidade
 - Sempre pense no futuro com a suas variaveis
+
+- Seja bem discritivo no momento que você estiver criando uma variavel
+- Nome da classe igual do arquivo
+- variavel = primeiraIdade, segundaIdade

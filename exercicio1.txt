@@ -1,0 +1,8 @@
+/* 
+Crie uma classe chamada CalculadorDiferencaIdade ok
+Crie uma variável para guardar a primeira idade ok
+Crie uma variável para guardar a segunda idade ok
+Crie uma variável para guardar a diferença entre a idade 1 e a idade 2
+Imprima no console
+*/
+

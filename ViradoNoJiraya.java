@@ -1,3 +1,9 @@
+// Tudo que estiver nesta linha será ignorado
+/*
+
+Tudo que estiver nesta linha será ignorado
+
+*/
 public class ViradoNoJiraya { // Classe
     public static void main(String[] args){ // Método
         int idade = 29; // Variavel 
