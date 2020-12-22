@@ -1,8 +1,10 @@
 
-Crie uma classe que calcule uma determinada porcetagem
-de um dado salario.
+Crie uma classe que calcule uma determinada porcentagem  um dado salario.
 
 *Crie uma classe
 * Aceitar um valor de entrada para o salario
 * Definir o valor da porcentagem
 * Calcular a porcetagem
+
+- Calcular a porcetagem
+ valor /100

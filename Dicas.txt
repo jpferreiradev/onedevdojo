@@ -51,3 +51,7 @@ Execução do código
 
 - Intellij IDE, Eclipse e Netbeans
 - Requisitos, é o que você "vai ter que fazer"
+
+-entrada de dados pelo usuário através do teclado;
+-processamento realizado através de cálculos; e
+-saídas de informações na tela do computador.
