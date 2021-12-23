@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//import java.util.Scanner
 
 public class CalculadoraImposto {
     public static void main(String[] args){
@@ -6,7 +6,7 @@ public class CalculadoraImposto {
      double valorSalario;
 
      System.out.println("Qual é o valor do salário?");
-     valorSalario = ler.nextDouble();
+     //valorSalario = ler.nextDouble();
 
      //Scanner ler = new Scanner(System.in);
      //System.out.println("O valor do salario com o imposto é de: ");

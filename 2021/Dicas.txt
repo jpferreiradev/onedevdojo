@@ -1,0 +1,47 @@
+Dicas para o curso de Dev Dojo - Lógica de programação
+
+Estudar, Estudar
+Ler, ler 
+Aprender inglês
+Não faça perguntas
+Problema
+8, 10
+Portugol -> Java
+FullStack -> Javascript, Java, Banco de dados, metodologias ágeis
+Operações matemáticas +-/*
+Sabe tempo 1ms 1s 1m 1h
+Sabe a diferença entre verdadeiro e falso
+
+Conjunto de instruções
+
+Entrada -> Processamento -> Saída
+
+Pegar 
+Abrir
+Pegar a panela
+Colocar água
+Esquentar
+Colocar o miojo
+Esperar 3 min 
+Retirar o miojo 
+Esperar esfriar
+Coloca num prato
+Pegar talher
+Senta na mesa
+Comer
+
+Linguagem de máquina (baixo nível)
+Linguagem de alto nível 
+
+
+ Linguagens estruturadas, linguagens orientadas a objeto e linguagens de script 
+ 
+
+
+- Como o Java funciona
+
+- Instalando o Java
+- Meu primeiro programa Java
+  * Palavras reservadas no Java
+  * Nomes da classe
+  
