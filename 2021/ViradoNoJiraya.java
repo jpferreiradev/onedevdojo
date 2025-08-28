@@ -1,7 +1,10 @@
 public class ViradoNoJiraya {
    public static void main(String[] args) {
-    System.out.println("Vamos voltar"); 
-    System.out.println("Hello World");
+   int minhaIdade = 30;
+
+      System.out.println("A idade da minha vó é de:  " + minhaIdade + " anos");
+
+
 
    } 
 }
